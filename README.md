@@ -1,5 +1,3 @@
-# Rasul Irgashev
-
 Frontend Developer specializing in scalable, high-performance web applications.  
 Focused on clean architecture, performance optimization, and maintainable code.
 
