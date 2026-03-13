@@ -1,16 +1,34 @@
-## Hi there 👋
+# Rasul Irgashev
 
-<!--
-**irgawev/irgawev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in scalable, high-performance web applications.  
+Focused on clean architecture, performance optimization, and maintainable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Core**
+```
+React · Next.js · TypeScript · JavaScript
+```
+
+**Styling**
+```
+Tailwind · Material UI · Ant Design · CSS · SASS/SCSS · PostCSS
+```
+
+**Additional**
+```
+Vue.js · GSAP · GraphQL · Telegram WebApp API
+```
+
+**Tools**
+```
+Git · Webpack · Vite · npm · pnpm · yarn
+```
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/rasulirgashev-464a051bb) · irgawevrasul@gmail.com
